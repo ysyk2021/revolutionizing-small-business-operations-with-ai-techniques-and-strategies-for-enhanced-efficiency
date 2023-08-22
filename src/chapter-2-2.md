@@ -1,5 +1,4 @@
-Types of AI: natural language processing, machine learning, and deep learning
-===================================================================================================================================================
+
 
 AI technology can provide several benefits for small business operations, including automating repetitive tasks, providing predictive analytics and personalized recommendations, and improving customer experience. In this chapter, we will discuss different types of AI technologies used in small business operations.
 
