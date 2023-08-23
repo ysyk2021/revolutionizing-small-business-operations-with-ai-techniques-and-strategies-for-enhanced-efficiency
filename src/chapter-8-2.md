@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI (Artificial Intelligence) technologies to enhance their operations, it is crucial to address potential ethical considerations associated with the use of these technologies. In this chapter, we will discuss the importance of addressing potential biases in AI algorithms.
 
 Understanding Bias in AI Algorithms

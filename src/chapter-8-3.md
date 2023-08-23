@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI (Artificial Intelligence) technologies to enhance their operations, it is crucial to address potential ethical considerations associated with the use of these technologies. In this chapter, we will discuss the importance of transparency and accountability in AI adoption for small business processes.
 
 Transparency in AI Adoption

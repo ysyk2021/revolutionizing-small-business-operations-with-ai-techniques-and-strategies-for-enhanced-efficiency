@@ -1,5 +1,4 @@
 
-
 As small businesses adopt AI technologies to enhance their operations, it is crucial to address the ethical considerations that arise. In this chapter, we will discuss some of the key ethical considerations when using AI for small business operations and how to address them.
 
 Discussion of Ethical Considerations When Using AI for Small Business Operations

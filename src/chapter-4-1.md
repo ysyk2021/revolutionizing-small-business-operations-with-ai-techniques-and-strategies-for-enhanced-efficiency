@@ -1,5 +1,4 @@
 
-
 Machine learning can help small businesses analyze their data more effectively, including customer behavior and sales patterns. In this chapter, we will discuss how machine learning can be used for analyzing business data.
 
 Understanding Customer Behavior
