@@ -10,3 +10,7 @@ We will also address potential challenges and ethical considerations to ensure t
 Whether you're a small business owner looking to optimize your operations, or an entrepreneur seeking innovative solutions for growth, this book provides valuable insights and strategies for leveraging AI effectively.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
