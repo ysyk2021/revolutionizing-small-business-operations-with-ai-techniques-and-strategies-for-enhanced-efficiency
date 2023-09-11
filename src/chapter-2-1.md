@@ -1,5 +1,4 @@
-Chapter 2: Explanation of AI Technology and Its Capabilities for Small Business Operations
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an in-depth explanation of AI (Artificial Intelligence) technology and its capabilities for enhancing small business operations. We will explore the fundamental concepts of AI and various techniques that can be leveraged to improve efficiency, automate tasks, and gain actionable insights.
 

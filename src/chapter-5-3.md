@@ -1,5 +1,4 @@
-Chapter 4: Potential Limitations and Ethical Considerations in Using AI for Customer Experience Enhancement
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the potential limitations and ethical considerations that small businesses should be aware of when using AI (Artificial Intelligence) to enhance customer experience. While AI has the potential to revolutionize customer interactions, it is essential to understand its limitations and ensure ethical practices are in place to protect customer privacy and maintain trust.
 

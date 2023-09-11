@@ -1,5 +1,4 @@
-Chapter 3: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of AI (Artificial Intelligence) and their applications in small business operations. We will focus on three key types of AI: Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL). We will discuss the fundamental concepts of each type and provide examples of how they can revolutionize small business efficiency.
 

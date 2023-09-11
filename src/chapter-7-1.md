@@ -1,5 +1,4 @@
-Chapter 5: Use of AI for Optimizing Supply Chain Management Processes, Including Inventory Management and Logistics Planning
-============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of AI (Artificial Intelligence) techniques for optimizing supply chain management processes in small businesses. We will focus on two key areas: inventory management and logistics planning. Leveraging AI in these areas can significantly enhance efficiency, reduce costs, and streamline operations.
 

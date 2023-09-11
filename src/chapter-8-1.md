@@ -1,5 +1,4 @@
-Chapter 10: Discussion of Ethical Considerations When Using AI for Small Business Operations
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of AI techniques and strategies into small business operations offers numerous benefits. However, it is crucial to address the ethical considerations associated with the use of AI. This chapter delves into the importance of ethical considerations and provides an in-depth discussion on key ethical aspects that small businesses should consider when adopting AI technologies.
 

@@ -1,5 +1,4 @@
-Chapter 9: Ensuring Transparency and Accountability in AI Adoption for Small Business Processes
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving landscape of small business operations, the adoption of AI techniques and strategies has become increasingly common. However, it is essential to ensure transparency and accountability throughout the AI adoption process. This chapter focuses on the significance of transparency and accountability and provides guidelines for small businesses to embrace AI technologies responsibly.
 

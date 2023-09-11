@@ -1,5 +1,4 @@
-Chapter 9: Addressing Ethical Considerations in Using AI for Decision-Making in Small Businesses
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the ethical considerations that arise when using AI for decision-making in small businesses. While AI can enhance efficiency and provide valuable insights, it is essential to address ethical implications to ensure responsible and fair use of these technologies.
 

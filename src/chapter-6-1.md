@@ -1,5 +1,4 @@
-Chapter 7: Use of AI for Data Analysis and Insights to Support Decision-Making Processes
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of AI for data analysis and insights to support decision-making processes in small businesses. AI techniques can help small businesses leverage their data effectively, extract valuable insights, and make informed decisions that drive enhanced efficiency and growth.
 

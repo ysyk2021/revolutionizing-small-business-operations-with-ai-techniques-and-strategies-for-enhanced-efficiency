@@ -1,5 +1,4 @@
-Chapter 8: Use of AI for Automating Repetitive Tasks and Workflow Processes
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced business environment, small businesses strive to achieve enhanced efficiency and productivity. One powerful way to achieve this is by leveraging AI techniques and strategies to automate repetitive tasks and streamline workflow processes. This chapter explores how small businesses can revolutionize their operations by using AI for automation, ultimately maximizing efficiency and saving valuable time and resources.
 

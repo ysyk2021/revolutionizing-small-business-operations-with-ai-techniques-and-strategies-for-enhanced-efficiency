@@ -1,5 +1,4 @@
-Chapter 10: Addressing Potential Challenges and Ethical Considerations in Using AI for Business Automation
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI-powered automation has the potential to revolutionize small business operations, optimizing efficiency, and improving productivity. However, there are various challenges and ethical considerations that need to be addressed to ensure responsible and effective use of AI. In this chapter, we will explore these potential challenges and provide strategies for mitigating them while upholding ethical standards.
 

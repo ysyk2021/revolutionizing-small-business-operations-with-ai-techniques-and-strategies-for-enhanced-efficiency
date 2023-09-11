@@ -1,5 +1,4 @@
-Chapter 8: Potential Limitations and Ethical Considerations in Using AI for Supply Chain Optimization
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Supply chain optimization is a critical area where AI can offer significant benefits to small businesses. By leveraging AI techniques, businesses can improve inventory management, streamline logistics, reduce costs, and enhance customer satisfaction. However, the implementation of AI in supply chain optimization also raises potential limitations and ethical considerations that must be addressed to ensure responsible and sustainable use. Let's explore some of these potential limitations and ethical considerations in using AI for supply chain optimization.
 

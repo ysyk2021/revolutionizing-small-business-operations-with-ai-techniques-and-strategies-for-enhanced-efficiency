@@ -1,5 +1,4 @@
-Chapter 10: Addressing Potential Challenges and Ethical Considerations in Using Machine Learning for Data Analytics
-===================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the potential challenges and ethical considerations that arise when using machine learning for data analytics in small businesses. While machine learning offers numerous benefits, it is essential to overcome challenges and address ethical implications to ensure responsible and effective use of these techniques.
 
